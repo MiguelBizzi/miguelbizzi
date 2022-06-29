@@ -3,7 +3,7 @@
 
 
 - 🔭 Estou procurando ofertas de estágio
-- 🌱 Estou atualmente aprendendo Desenvolvimento de Web
+- 🌠 Dev. Full-Stack
 - 📫 Contate-me pelo email: migueloliveirabizzi@gmail.com
 
     ##
