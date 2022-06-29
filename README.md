@@ -6,6 +6,8 @@
 - 🌠 Dev. Full-Stack
 - 📫 Contate-me pelo email: migueloliveirabizzi@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelbizzi&layout=compact)](https://github.com/miguelbizzi/github-readme-stats)
+
     ##
   
   <div> 
