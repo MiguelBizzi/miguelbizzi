@@ -7,7 +7,7 @@
 - 📫 Contate-me pelo email: migueloliveirabizzi@gmail.com
 - ⚡ Conhecimento HTML5, CSS, BOOSTRAP, PHP, C# e MYSQL
 
-    
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelbizzi&layout=compact&langs_count=7&theme=dark"/>
    
     
 
