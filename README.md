@@ -5,7 +5,7 @@
 - 🔭 Estou procurando ofertas de estágio
 - 🌠 Dev. Full-Stack
 - 📫 Contate-me pelo email: migueloliveirabizzi@gmail.com
-- ⚡ Conhecimento HTML5, CSS, BOOSTRAP, PHP, C# e MYSQL
+- ⚡ Conhecimento HTML5, CSS, BOOTSTRAP, PHP, C# e MYSQL
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
