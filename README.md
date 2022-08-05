@@ -5,7 +5,7 @@
 - 🔭 Estou procurando ofertas de estágio
 - 🌠 Dev. Full-Stack
 - 📫 Contate-me pelo email: migueloliveirabizzi@gmail.com
-- 📘 Atualmente estudando JAVASCRIPT
+- 📘 Atualmente estudando JAVASCRIPT, JQUERY, AJAX
 - ⚡ Conhecimento HTML5, CSS, BOOTSTRAP, PHP, C# e MYSQL
 
 <div style="display: inline_block"><br>
