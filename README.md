@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estou procurando ofertas de estágio
+- 🔭 Estagiário pela Aglets Soluções
 - 🌠 Dev. Full-Stack
 - 📫 Contate-me pelo email: migueloliveirabizzi@gmail.com
 - 📘 Atualmente estudando JAVASCRIPT, JQUERY, AJAX
