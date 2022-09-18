@@ -5,8 +5,8 @@
 - 🔭 Estagiário pela Aglets Soluções
 - 🌠 Dev. Full-Stack
 - 📫 Contate-me pelo email: migueloliveirabizzi@gmail.com
-- 📘 Atualmente estudando JAVASCRIPT, JQUERY, AJAX
-- ⚡ Conhecimento HTML5, CSS, BOOTSTRAP, PHP, C# e MYSQL
+- 📘 Atualmente estudando REACT, TYPESCRIPT
+- ⚡ Conhecimento HTML5, CSS, BOOTSTRAP, JAVASCRIPT, AJAX, JQUERY, GIT, PHP, C# e MYSQL
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
