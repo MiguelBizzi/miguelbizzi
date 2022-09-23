@@ -3,7 +3,7 @@
 
 
 - 🔭 Estagiário pela Aglets Soluções
-- 🌠 Dev. Full-Stack
+- 🌠 Dev. Full-Stack & Mobile
 - 📫 Contate-me pelo email: migueloliveirabizzi@gmail.com
 - 📘 Atualmente estudando REACT, TYPESCRIPT
 - ⚡ Conhecimento HTML5, CSS, BOOTSTRAP, JAVASCRIPT, AJAX, JQUERY, GIT, PHP, C# e MYSQL
