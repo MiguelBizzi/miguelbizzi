@@ -4,7 +4,7 @@
 
 - 🔭 Dev. Mobile pela Aglets Soluções
 - 📫 Contate-me pelo email: migueloliveirabizzi@gmail.com
-- ⚡ Conhecimentos: JAVASCRIPT, REACT JS E NATIVE, TYPESCRIPT, REALM DB, API, GIT, MYSQL
+- ⚡ Conhecimentos: JavaScript, React Native / JS, Typescript, RealmDB, API, Git, MySql
 
 <div style="display: inline_block"><br>
 
