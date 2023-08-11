@@ -4,7 +4,7 @@
 
 - 👩‍💻 Dev. Mobile pela Aglets Soluções & Freelancer 
 - 📫 Contate-me pelo email: migueloliveirabizzi@gmail.com
-- ⚡ Conhecimentos: JavaScript, React (JS e Native), TypeScript, Redux, Expo, Figma, MySQL, Realm DB, API, Git, FireBase, Push Notifications, APNS, OneSignal e Deep Linking
+- ⚡ Conhecimentos: JavaScript, React Native, TypeScript, Redux, Expo, Figma, MySQL, Realm DB, API, Git, FireBase, Push Notifications, APNS, OneSignal e Deep Linking
 - 📚 Sempre estudando e aperfeiçoando minhas habilidades.
 
 <div style="display: inline_block"><br>
