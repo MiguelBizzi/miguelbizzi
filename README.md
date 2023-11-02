@@ -4,7 +4,7 @@
 
 - 👩‍💻 Dev. Mobile pela Aglets Soluções & Freelancer 
 - 📫 Contate-me pelo email: migueloliveirabizzi@gmail.com
-- ⚡ Conhecimentos: JavaScript, React Native, TypeScript, Redux, Expo, Figma, MySQL, Realm DB, API, Git, FireBase, Push Notifications, APNS, OneSignal e Deep Linking
+- ⚡ Conhecimentos: JavaScript, React Native, TypeScript, Redux, Svelte, Vue, Laravel, Expo, Figma, MySQL, Realm DB, API, Git, FireBase, Push Notifications, APNS, OneSignal e Deep Linking
 - 📚 Sempre estudando e aperfeiçoando minhas habilidades.
 
 <div style="display: inline_block"><br>
@@ -12,6 +12,9 @@
   <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Svelte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg" />
+  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img align="center" alt="Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
