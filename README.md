@@ -6,7 +6,7 @@
 - 📫 Contate-me pelo email: migueloliveirabizzi@gmail.com
 - ⚡ Conhecimentos: React Native & JS, JavaScript, Go, NextJS, Tailwind, TypeScript, Redux, SvelteKit, VueJS, Laravel, Expo, Figma, MySQL, Realm DB, API, Git, FireBase, Push Notifications, APNS, OneSignal e Deep Linking
 - 📚 Sempre estudando e aperfeiçoando minhas habilidades.
-- 💻 Portifólio: miguelbizzi.com.br
+- 💻 Portifólio: <a href="https://www.miguelbizzi.com.br" target="_blank">miguelbizzi.com.br</a> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
