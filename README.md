@@ -2,7 +2,7 @@
 
 
 
-- 👩‍💻 Software Engineer. Front End pela Faculdade Realiza && Freelancer 
+- 👩‍💻 Fullstack Software Engineer && Tech Leader 
 - 📫 Contate-me pelo email: migueloliveirabizzi@gmail.com
 - ⚡ Conhecimentos: React Native & JS, JavaScript, Go, NextJS, Tailwind, TypeScript, Redux, SvelteKit, VueJS, Laravel, Expo, Figma, MySQL, Realm DB, API, Git, FireBase, Push Notifications, APNS, OneSignal e Deep Linking
 - 📚 Sempre estudando e aperfeiçoando minhas habilidades.
