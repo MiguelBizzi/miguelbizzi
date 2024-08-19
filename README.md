@@ -3,10 +3,10 @@
 
 
 - 👩‍💻 Fullstack Software Engineer && Tech Leader 
-- 📫 Contate-me pelo email: migueloliveirabizzi@gmail.com
-- ⚡ Especialidade em: React Native, SvelteKit, Go, NextJS, TailwindCSS, Node.JS, TypeScript, Firebase.
-- 📚 Sempre estudando e aperfeiçoando minhas habilidades.
-- 💻 Portifólio: <a href="https://www.miguelbizzi.com.br" target="_blank">miguelbizzi.com.br</a> 
+- 📫 Contact me by: migueloliveirabizzi@gmail.com
+- ⚡  Expertise in: React Native, SvelteKit, Go, NextJS, TailwindCSS, Node.JS, TypeScript, Firebase.
+- 📚 Always learning and improving.
+- 💻 Portfolio: <a href="https://www.miguelbizzi.com.br" target="_blank">miguelbizzi.com.br</a> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
