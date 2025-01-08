@@ -1,28 +1,29 @@
-### Olá! Eu sou Miguel Bizzi👋
+# Hi there! 👋 I'm Miguel Bizzi
 
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in developing innovative solutions and improving my skills continuously. Here's a bit more about me:
 
+## 🚀 About Me
 
-- 👩‍💻 Fullstack Software Engineer && Tech Leader 
-- 📫 Contact me by: migueloliveirabizzi@gmail.com
-- ⚡  Expertise in: React Native, SvelteKit, Go, NextJS, TailwindCSS, Node.JS, TypeScript, Firebase.
-- 📚 Always learning and improving.
-- 💻 Portfolio: <a href="https://www.miguelbizzi.com.br" target="_blank">miguelbizzi.com.br</a> 
+- 🌱 I’m currently learning advanced mobile development and cloud computing.
+- 👯 I’m looking to collaborate on open-source projects and innovative web applications.
+- 💬 Ask me about anything related to web development and software engineering.
+- 📫 How to reach me: [Email](mailto:migueloliveirabizzi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/miguelbizzi/)
+- 💻 Check my website here: [Link](https://www.miguelbizzi.com.br/en)
+- ⚡ Fun fact: I love learning new languages and exploring new places!
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Svelte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-  <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />        
-  <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-  <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="Apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-</div>     
+## 🛠️ Languages and Tools
 
-##
-  
-<div> 
-  <a href="https://www.linkedin.com/in/miguel-oliveira-bizzi-80b13b206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-black?style=flat-square&logo=svelte)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 
-
+Thank you for visiting my profile! Let's build something amazing together!
