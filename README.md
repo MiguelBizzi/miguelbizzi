@@ -4,8 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- 🌱 I’m currently building an complete investment organizer SaaS.
-- 👯 I’m looking to collaborate on open-source projects and innovative web applications.
+- 👯 I’m looking to collaborate on open-source projects and innovative web/mobile applications.
 - 💬 Ask me about anything related to web development and software engineering.
 - 📫 How to reach me: [Email](mailto:migueloliveirabizzi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/miguelbizzi/)
 - 💻 Check my website here: [Link](https://www.miguelbizzi.com.br/en)
